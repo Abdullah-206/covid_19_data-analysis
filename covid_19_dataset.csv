@@ -1,0 +1,600 @@
+Date,State,Region,Confirmed,Deaths,Recovered
+29-03-20,,Afghanistan,120,4,2
+29-03-20,,Albania,212,10,33
+29-03-20,,Algeria,511,31,31
+29-03-20,,Andorra,334,6,1
+29-03-20,,Angola,7,2,0
+29-03-20,,Antigua and Barbuda,7,0,0
+29-03-20,,Argentina,745,19,72
+29-03-20,,Armenia,424,3,30
+29-03-20,Australian Capital Territory,Australia,77,0,2
+29-03-20,New South Wales,Australia,1791,8,4
+29-03-20,Northern Territory,Australia,15,0,0
+29-03-20,Queensland,Australia,656,2,8
+29-03-20,South Australia,Australia,299,0,6
+29-03-20,Tasmania,Australia,66,0,5
+29-03-20,Victoria,Australia,769,4,191
+29-03-20,Western Australia,Australia,311,2,28
+29-03-20,,Austria,8788,86,479
+29-03-20,,Azerbaijan,209,4,15
+29-03-20,,Bahamas,11,0,1
+29-03-20,,Bahrain,499,4,272
+29-03-20,,Bangladesh,48,5,15
+29-03-20,,Barbados,33,0,0
+29-03-20,,Belarus,94,0,32
+29-03-20,,Belgium,10836,431,1359
+29-03-20,,Benin,6,0,0
+29-03-20,,Bhutan,4,0,0
+29-03-20,,Bolivia,81,1,0
+29-03-20,,Bosnia and Herzegovina,323,6,8
+29-03-20,,Brazil,4256,136,6
+29-03-20,,Brunei,126,1,34
+29-03-20,,Bulgaria,346,8,14
+29-03-20,,Burkina Faso,222,12,23
+29-03-20,,Cabo Verde,6,1,0
+29-03-20,,Cambodia,103,0,21
+29-03-20,,Cameroon,139,6,5
+29-03-20,Alberta,Canada,621,2,0
+29-03-20,British Columbia,Canada,884,17,0
+29-03-20,Manitoba,Canada,72,1,0
+29-03-20,New Brunswick,Canada,66,0,0
+29-03-20,Newfoundland and Labrador,Canada,135,0,0
+29-03-20,Nova Scotia,Canada,122,0,0
+29-03-20,Ontario,Canada,1355,21,0
+29-03-20,Prince Edward Island,Canada,11,0,0
+29-03-20,Quebec,Canada,2840,22,0
+29-03-20,Saskatchewan,Canada,156,0,0
+29-03-20,,Central African Republic,3,0,0
+29-03-20,,Chad,3,0,0
+29-03-20,,Chile,2245,7,75
+29-03-20,Anhui,China,990,6,984
+29-03-20,Beijing,China,577,8,412
+29-03-20,Chongqing,China,579,6,570
+29-03-20,Fujian,China,338,1,295
+29-03-20,Gansu,China,138,2,125
+29-03-20,Guangdong,China,1475,8,1349
+29-03-20,Guangxi,China,254,2,250
+29-03-20,Guizhou,China,146,2,144
+29-03-20,Hainan,China,168,6,168
+29-03-20,Hebei,China,319,6,0
+29-03-20,Heilongjiang,China,484,13,469
+29-03-20,Henan,China,1276,22,0
+29-03-20,Hong Kong,China,641,4,112
+29-03-20,Hubei,China,67801,3182,62570
+29-03-20,Hunan,China,1018,4,1014
+29-03-20,Inner Mongolia,China,95,1,74
+29-03-20,Jiangsu,China,644,0,631
+29-03-20,Jiangxi,China,937,1,934
+29-03-20,Jilin,China,98,1,92
+29-03-20,Liaoning,China,134,2,124
+29-03-20,Macau,China,37,0,10
+29-03-20,Ningxia,China,75,0,75
+29-03-20,Qinghai,China,18,0,18
+29-03-20,Shaanxi,China,253,3,242
+29-03-20,Shandong,China,772,7,752
+29-03-20,Shanghai,China,492,5,334
+29-03-20,Shanxi,China,136,0,133
+29-03-20,Sichuan,China,550,3,536
+29-03-20,Tianjin,China,166,3,133
+29-03-20,Tibet,China,1,0,1
+29-03-20,Xinjiang,China,76,3,73
+29-03-20,Yunnan,China,180,2,172
+29-03-20,Zhejiang,China,1254,1,1225
+29-03-20,,Colombia,702,10,10
+29-03-20,,Congo (Brazzaville),19,0,0
+29-03-20,,Congo (Kinshasa),65,6,2
+29-03-20,,Costa Rica,314,2,3
+29-03-20,,Cote d'Ivoire,165,1,4
+29-03-20,,Croatia,713,6,52
+29-03-20,,Cuba,139,3,4
+29-03-20,,Cyprus,214,5,15
+29-03-20,,Czechia,2817,16,11
+29-03-20,Faroe Islands,Denmark,159,0,70
+29-03-20,Greenland,Greenland,10,0,2
+29-03-20,,Denmark,2395,72,1
+29-03-20,,Djibouti,18,0,0
+29-03-20,,Dominican Republic,859,39,3
+29-03-20,,Ecuador,1924,58,3
+29-03-20,,Egypt,609,40,132
+29-03-20,,El Salvador,24,0,0
+29-03-20,,Equatorial Guinea,12,0,0
+29-03-20,,Eritrea,12,0,0
+29-03-20,,Estonia,679,3,20
+29-03-20,,Eswatini,9,0,0
+29-03-20,,Ethiopia,21,0,1
+29-03-20,,Fiji,5,0,0
+29-03-20,,Finland,1240,11,10
+29-03-20,French Guiana,France,28,0,6
+29-03-20,French Polynesia,France,30,0,0
+29-03-20,Guadeloupe,France,106,4,17
+29-03-20,Mayotte,France,63,0,0
+29-03-20,New Caledonia,France,15,0,0
+29-03-20,Reunion,France,183,0,1
+29-03-20,Saint Barthelemy,France,5,0,0
+29-03-20,St Martin,France,11,0,0
+29-03-20,Martinique,France,93,1,0
+29-03-20,,France,40174,2606,7202
+29-03-20,,Gabon,7,1,0
+29-03-20,,Gambia,4,1,0
+29-03-20,,Georgia,91,0,18
+29-03-20,,Germany,62095,533,9211
+29-03-20,,Ghana,152,5,2
+29-03-20,,Greece,1156,38,52
+29-03-20,,Guatemala,34,1,10
+29-03-20,,Guinea,16,0,0
+29-03-20,,Guyana,8,1,0
+29-03-20,,Haiti,15,0,1
+29-03-20,,Holy See,6,0,0
+29-03-20,,Honduras,110,3,3
+29-03-20,,Hungary,408,13,34
+29-03-20,,Iceland,1020,2,135
+29-03-20,,India,1024,27,95
+29-03-20,,Indonesia,1285,114,64
+29-03-20,,Iran,38309,2640,12391
+29-03-20,,Iraq,547,42,143
+29-03-20,,Ireland,2615,46,5
+29-03-20,,Israel,4247,15,132
+29-03-20,,Italy,97689,10779,13030
+29-03-20,,Jamaica,32,1,2
+29-03-20,,Japan,1907,63,424
+29-03-20,,Jordan,259,3,18
+29-03-20,,Kazakhstan,284,1,20
+29-03-20,,Kenya,42,1,1
+29-03-20,,South Korea,9583,152,5033
+29-03-20,,Kuwait,255,0,67
+29-03-20,,Kyrgyzstan,84,0,0
+29-03-20,,Latvia,347,0,1
+29-03-20,,Lebanon,438,10,30
+29-03-20,,Liberia,3,0,0
+29-03-20,,Liechtenstein,56,0,28
+29-03-20,,Lithuania,460,7,1
+29-03-20,,Luxembourg,1950,21,40
+29-03-20,,Madagascar,39,0,0
+29-03-20,,Malaysia,2470,35,388
+29-03-20,,Maldives,17,0,13
+29-03-20,,Malta,151,0,2
+29-03-20,,Mauritania,5,0,2
+29-03-20,,Mauritius,107,3,0
+29-03-20,,Mexico,993,20,4
+29-03-20,,Moldova,263,2,2
+29-03-20,,Monaco,46,1,1
+29-03-20,,Mongolia,12,0,0
+29-03-20,,Montenegro,85,1,0
+29-03-20,,Morocco,479,26,13
+29-03-20,,Namibia,11,0,2
+29-03-20,,Nepal,5,0,1
+29-03-20,Aruba,Netherlands,50,0,1
+29-03-20,Curacao,Netherlands,8,1,2
+29-03-20,Sint Maarten,Netherlands,6,0,0
+29-03-20,,Netherlands,10866,771,0
+29-03-20,,New Zealand,514,1,56
+29-03-20,,Nicaragua,4,1,0
+29-03-20,,Niger,18,1,0
+29-03-20,,Nigeria,111,1,3
+29-03-20,,North Macedonia,259,6,3
+29-03-20,,Norway,4284,25,7
+29-03-20,,Oman,167,0,23
+29-03-20,,Pakistan,1717,21,76
+29-03-20,,Panama,901,17,4
+29-03-20,,Papua New Guinea,1,0,0
+29-03-20,,Paraguay,59,3,1
+29-03-20,,Peru,852,18,16
+29-03-20,,Philippines,1418,71,42
+29-03-20,,Poland,1862,22,7
+29-03-20,,Portugal,5962,119,43
+29-03-20,,Qatar,634,1,48
+29-03-20,,Romania,1815,43,206
+29-03-20,,Russia,1534,8,64
+29-03-20,,Rwanda,70,0,0
+29-03-20,,Saint Lucia,9,0,1
+29-03-20,,Saint Vincent and the Grenadines,1,0,1
+29-03-20,,San Marino,224,22,6
+29-03-20,,Saudi Arabia,1299,8,66
+29-03-20,,Senegal,142,0,27
+29-03-20,,Serbia,741,13,0
+29-03-20,,Seychelles,8,0,0
+29-03-20,,Singapore,844,3,212
+29-03-20,,Slovakia,314,0,2
+29-03-20,,Slovenia,730,11,10
+29-03-20,,Somalia,3,0,0
+29-03-20,,South Africa,1280,2,31
+29-03-20,,Spain,80110,6803,14709
+29-03-20,,Sri Lanka,117,1,11
+29-03-20,,Sudan,6,1,0
+29-03-20,,Suriname,8,0,0
+29-03-20,,Sweden,3700,110,0
+29-03-20,,Switzerland,14829,300,1595
+29-03-20,,Taiwan*,298,2,30
+29-03-20,,Tanzania,14,0,1
+29-03-20,,Thailand,1388,7,97
+29-03-20,,Togo,25,1,1
+29-03-20,,Trinidad and Tobago,78,3,1
+29-03-20,,Tunisia,312,8,2
+29-03-20,,Turkey,9217,131,105
+29-03-20,,Uganda,33,0,0
+29-03-20,,Ukraine,475,10,6
+29-03-20,,United Arab Emirates,570,3,58
+29-03-20,Bermuda,United Kingdom,22,0,2
+29-03-20,Cayman Islands,United Kingdom,8,1,0
+29-03-20,Channel Islands,United Kingdom,108,2,0
+29-03-20,Gibraltar,United Kingdom,65,0,14
+29-03-20,Isle of Man,United Kingdom,42,0,0
+29-03-20,Montserrat,United Kingdom,5,0,0
+29-03-20,,United Kingdom,29696,1670,135
+29-03-20,,Uruguay,309,1,0
+29-03-20,,US,141205,3561,2665
+29-03-20,,Uzbekistan,144,2,7
+29-03-20,,Venezuela,119,2,39
+29-03-20,,Vietnam,188,0,25
+29-03-20,,Zambia,29,0,0
+29-03-20,,Zimbabwe,7,1,0
+29-03-20,,Dominica,11,0,0
+29-03-20,,Grenada,9,0,0
+29-03-20,,Mozambique,8,0,0
+29-03-20,,Syria,9,1,0
+29-03-20,,Timor-Leste,1,0,0
+29-03-20,,Belize,2,0,0
+29-03-20,,Laos,8,0,0
+29-03-20,,Libya,8,0,0
+29-03-20,,West Bank and Gaza,109,1,18
+29-03-20,,Guinea-Bissau,2,0,0
+29-03-20,,Mali,18,1,0
+29-03-20,,Saint Kitts and Nevis,2,0,0
+29-03-20,Northwest Territories,Canada,1,0,0
+29-03-20,Yukon,Canada,4,0,0
+29-03-20,,Kosovo,94,1,1
+29-03-20,,Burma,10,0,0
+29-03-20,Anguilla,United Kingdom,2,0,0
+29-03-20,British Virgin Islands,United Kingdom,2,0,0
+29-03-20,Turks and Caicos Islands,United Kingdom,4,0,0
+29-03-20,,Botswana,0,0,0
+29-03-20,,Burundi,0,0,0
+29-03-20,,Sierra Leone,0,0,0
+29-03-20,,Malawi,0,0,0
+29-03-20,Falkland Islands (Malvinas),United Kingdom,0,0,0
+29-03-20,Saint Pierre and Miquelon,France,0,0,0
+29-03-20,,South Sudan,0,0,0
+29-03-20,,Western Sahara,0,0,0
+29-03-20,,Sao Tome and Principe,0,0,0
+29-03-20,,Yemen,0,0,0
+29-03-20,,Comoros,0,0,0
+29-03-20,,Tajikistan,0,0,0
+29-03-20,,Lesotho,0,0,0
+30-03-20,,Afghanistan,170,4,2
+30-03-20,,Albania,223,11,44
+30-03-20,,Algeria,584,35,37
+30-03-20,,Andorra,370,8,10
+30-03-20,,Angola,7,2,0
+30-03-20,,Antigua and Barbuda,7,0,0
+30-03-20,,Argentina,820,23,228
+30-03-20,,Armenia,482,3,30
+30-03-20,Australian Capital Territory,Australia,78,1,2
+30-03-20,New South Wales,Australia,2032,8,4
+30-03-20,Northern Territory,Australia,15,0,0
+30-03-20,Queensland,Australia,689,2,8
+30-03-20,South Australia,Australia,305,0,6
+30-03-20,Tasmania,Australia,66,0,5
+30-03-20,Victoria,Australia,821,4,191
+30-03-20,Western Australia,Australia,355,2,41
+30-03-20,,Austria,9618,108,636
+30-03-20,,Azerbaijan,273,4,26
+30-03-20,,Bahamas,14,0,1
+30-03-20,,Bahrain,515,4,279
+30-03-20,,Bangladesh,49,5,19
+30-03-20,,Barbados,33,0,0
+30-03-20,,Belarus,152,0,32
+30-03-20,,Belgium,11899,513,1527
+30-03-20,,Benin,6,0,0
+30-03-20,,Bhutan,4,0,0
+30-03-20,,Bolivia,97,4,0
+30-03-20,,Bosnia and Herzegovina,368,10,17
+30-03-20,,Brazil,4579,159,120
+30-03-20,,Brunei,127,1,38
+30-03-20,,Bulgaria,359,8,17
+30-03-20,,Burkina Faso,246,12,31
+30-03-20,,Cabo Verde,6,1,0
+30-03-20,,Cambodia,107,0,21
+30-03-20,,Cameroon,139,6,5
+30-03-20,Alberta,Canada,661,3,0
+30-03-20,British Columbia,Canada,970,19,0
+30-03-20,Manitoba,Canada,96,1,0
+30-03-20,New Brunswick,Canada,68,0,0
+30-03-20,Newfoundland and Labrador,Canada,148,1,0
+30-03-20,Nova Scotia,Canada,127,0,0
+30-03-20,Ontario,Canada,1706,31,0
+30-03-20,Prince Edward Island,Canada,18,0,0
+30-03-20,Quebec,Canada,3430,22,0
+30-03-20,Saskatchewan,Canada,156,2,0
+30-03-20,,Central African Republic,3,0,0
+30-03-20,,Chad,5,0,0
+30-03-20,,Chile,2555,8,156
+30-03-20,Anhui,China,990,6,984
+30-03-20,Beijing,China,577,8,415
+30-03-20,Chongqing,China,579,6,570
+30-03-20,Fujian,China,340,1,295
+30-03-20,Gansu,China,138,2,125
+30-03-20,Guangdong,China,1484,8,1351
+30-03-20,Guangxi,China,254,2,250
+30-03-20,Guizhou,China,146,2,144
+30-03-20,Hainan,China,168,6,168
+30-03-20,Hebei,China,321,6,0
+30-03-20,Heilongjiang,China,484,13,469
+30-03-20,Henan,China,1276,22,0
+30-03-20,Hong Kong,China,682,4,123
+30-03-20,Hubei,China,67801,3186,62889
+30-03-20,Hunan,China,1018,4,1014
+30-03-20,Inner Mongolia,China,97,1,74
+30-03-20,Jiangsu,China,645,0,631
+30-03-20,Jiangxi,China,937,1,935
+30-03-20,Jilin,China,98,1,92
+30-03-20,Liaoning,China,136,2,124
+30-03-20,Macau,China,38,0,10
+30-03-20,Ningxia,China,75,0,75
+30-03-20,Qinghai,China,18,0,18
+30-03-20,Shaanxi,China,253,3,242
+30-03-20,Shandong,China,773,7,753
+30-03-20,Shanghai,China,498,5,338
+30-03-20,Shanxi,China,136,0,133
+30-03-20,Sichuan,China,550,3,536
+30-03-20,Tianjin,China,174,3,133
+30-03-20,Tibet,China,1,0,1
+30-03-20,Xinjiang,China,76,3,73
+30-03-20,Yunnan,China,180,2,172
+30-03-20,Zhejiang,China,1255,1,1225
+30-03-20,,Colombia,798,12,15
+30-03-20,,Congo (Brazzaville),19,0,0
+30-03-20,,Congo (Kinshasa),81,8,2
+30-03-20,,Costa Rica,330,2,4
+30-03-20,,Cote d'Ivoire,168,1,6
+30-03-20,,Croatia,790,6,67
+30-03-20,,Cuba,170,4,4
+30-03-20,,Cyprus,230,7,22
+30-03-20,,Czechia,3001,23,25
+30-03-20,Faroe Islands,Denmark,168,0,70
+30-03-20,Greenland,Greenland,10,0,2
+30-03-20,,Denmark,2577,77,1
+30-03-20,,Djibouti,18,0,0
+30-03-20,,Dominican Republic,901,42,4
+30-03-20,,Ecuador,1962,60,3
+30-03-20,,Egypt,656,41,150
+30-03-20,,El Salvador,30,0,0
+30-03-20,,Equatorial Guinea,12,0,0
+30-03-20,,Eritrea,12,0,0
+30-03-20,,Estonia,715,3,20
+30-03-20,,Eswatini,9,0,0
+30-03-20,,Ethiopia,23,0,4
+30-03-20,,Fiji,5,0,0
+30-03-20,,Finland,1352,13,10
+30-03-20,French Guiana,France,43,0,6
+30-03-20,French Polynesia,France,36,0,0
+30-03-20,Guadeloupe,France,106,4,17
+30-03-20,Mayotte,France,82,0,10
+30-03-20,New Caledonia,France,15,0,0
+30-03-20,Reunion,France,224,0,1
+30-03-20,Saint Barthelemy,France,6,0,1
+30-03-20,St Martin,France,15,1,2
+30-03-20,Martinique,France,93,1,0
+30-03-20,,France,44550,3024,7927
+30-03-20,,Gabon,7,1,0
+30-03-20,,Gambia,4,1,0
+30-03-20,,Georgia,103,0,20
+30-03-20,,Germany,66885,645,13500
+30-03-20,,Ghana,152,5,2
+30-03-20,,Greece,1212,43,52
+30-03-20,,Guatemala,36,1,10
+30-03-20,,Guinea,22,0,0
+30-03-20,,Guyana,8,1,0
+30-03-20,,Haiti,15,0,1
+30-03-20,,Holy See,6,0,0
+30-03-20,,Honduras,139,7,3
+30-03-20,,Hungary,447,15,34
+30-03-20,,Iceland,1086,2,157
+30-03-20,,India,1251,32,102
+30-03-20,,Indonesia,1414,122,75
+30-03-20,,Iran,41495,2757,13911
+30-03-20,,Iraq,630,46,152
+30-03-20,,Ireland,2910,54,5
+30-03-20,,Israel,4695,16,161
+30-03-20,,Italy,101739,11591,14620
+30-03-20,,Jamaica,36,1,2
+30-03-20,,Japan,2001,65,424
+30-03-20,,Jordan,268,5,26
+30-03-20,,Kazakhstan,302,1,21
+30-03-20,,Kenya,50,1,1
+30-03-20,,South Korea,9661,158,5228
+30-03-20,,Kuwait,266,0,72
+30-03-20,,Kyrgyzstan,94,0,3
+30-03-20,,Latvia,376,0,1
+30-03-20,,Lebanon,446,11,35
+30-03-20,,Liberia,3,0,0
+30-03-20,,Liechtenstein,62,0,37
+30-03-20,,Lithuania,491,7,7
+30-03-20,,Luxembourg,1988,22,40
+30-03-20,,Madagascar,43,0,0
+30-03-20,,Malaysia,2626,37,479
+30-03-20,,Maldives,17,0,13
+30-03-20,,Malta,156,0,2
+30-03-20,,Mauritania,5,1,2
+30-03-20,,Mauritius,128,3,0
+30-03-20,,Mexico,1094,28,35
+30-03-20,,Moldova,298,2,15
+30-03-20,,Monaco,49,1,1
+30-03-20,,Mongolia,12,0,2
+30-03-20,,Montenegro,91,1,0
+30-03-20,,Morocco,556,33,15
+30-03-20,,Namibia,11,0,2
+30-03-20,,Nepal,5,0,1
+30-03-20,Aruba,Netherlands,50,0,1
+30-03-20,Curacao,Netherlands,11,1,2
+30-03-20,Sint Maarten,Netherlands,6,0,0
+30-03-20,,Netherlands,11750,864,0
+30-03-20,,New Zealand,589,1,63
+30-03-20,,Nicaragua,4,1,0
+30-03-20,,Niger,27,3,0
+30-03-20,,Nigeria,131,2,8
+30-03-20,,North Macedonia,285,7,12
+30-03-20,,Norway,4445,32,12
+30-03-20,,Oman,179,0,29
+30-03-20,,Pakistan,1938,26,76
+30-03-20,,Panama,989,24,4
+30-03-20,,Papua New Guinea,1,0,0
+30-03-20,,Paraguay,64,3,1
+30-03-20,,Peru,950,24,53
+30-03-20,,Philippines,1546,78,42
+30-03-20,,Poland,2055,31,7
+30-03-20,,Portugal,6408,140,43
+30-03-20,,Qatar,693,1,51
+30-03-20,,Romania,2109,65,209
+30-03-20,,Russia,1836,9,66
+30-03-20,,Rwanda,70,0,0
+30-03-20,,Saint Lucia,9,0,1
+30-03-20,,Saint Vincent and the Grenadines,1,0,1
+30-03-20,,San Marino,230,25,13
+30-03-20,,Saudi Arabia,1453,8,115
+30-03-20,,Senegal,162,0,27
+30-03-20,,Serbia,785,16,0
+30-03-20,,Seychelles,8,0,0
+30-03-20,,Singapore,879,3,228
+30-03-20,,Slovakia,336,0,7
+30-03-20,,Slovenia,756,11,10
+30-03-20,,Somalia,3,0,0
+30-03-20,,South Africa,1326,3,31
+30-03-20,,Spain,87956,7716,16780
+30-03-20,,Sri Lanka,122,2,15
+30-03-20,,Sudan,6,2,0
+30-03-20,,Suriname,8,0,0
+30-03-20,,Sweden,4028,146,0
+30-03-20,,Switzerland,15922,359,1823
+30-03-20,,Taiwan*,306,5,39
+30-03-20,,Tanzania,19,0,1
+30-03-20,,Thailand,1524,9,229
+30-03-20,,Togo,30,1,1
+30-03-20,,Trinidad and Tobago,82,3,1
+30-03-20,,Tunisia,312,8,3
+30-03-20,,Turkey,10827,168,162
+30-03-20,,Uganda,33,0,0
+30-03-20,,Ukraine,548,13,8
+30-03-20,,United Arab Emirates,611,5,61
+30-03-20,Bermuda,United Kingdom,27,0,2
+30-03-20,Cayman Islands,United Kingdom,12,1,0
+30-03-20,Channel Islands,United Kingdom,141,2,0
+30-03-20,Gibraltar,United Kingdom,69,0,34
+30-03-20,Isle of Man,United Kingdom,49,0,0
+30-03-20,Montserrat,United Kingdom,5,0,0
+30-03-20,,United Kingdom,33969,2044,135
+30-03-20,,Uruguay,320,1,0
+30-03-20,,US,162707,4381,5644
+30-03-20,,Uzbekistan,149,2,7
+30-03-20,,Venezuela,135,3,39
+30-03-20,,Vietnam,203,0,55
+30-03-20,,Zambia,35,0,0
+30-03-20,,Zimbabwe,7,1,0
+30-03-20,,Dominica,11,0,0
+30-03-20,,Grenada,9,0,0
+30-03-20,,Mozambique,8,0,0
+30-03-20,,Syria,10,2,0
+30-03-20,,Timor-Leste,1,0,0
+30-03-20,,Belize,3,0,0
+30-03-20,,Laos,8,0,0
+30-03-20,,Libya,8,0,0
+30-03-20,,West Bank and Gaza,116,1,18
+30-03-20,,Guinea-Bissau,8,0,0
+30-03-20,,Mali,25,2,0
+30-03-20,,Saint Kitts and Nevis,7,0,0
+30-03-20,Northwest Territories,Canada,1,0,0
+30-03-20,Yukon,Canada,4,0,0
+30-03-20,,Kosovo,94,1,1
+30-03-20,,Burma,14,0,0
+30-03-20,Anguilla,United Kingdom,2,0,0
+30-03-20,British Virgin Islands,United Kingdom,2,0,0
+30-03-20,Turks and Caicos Islands,United Kingdom,5,0,0
+30-03-20,,Botswana,3,0,0
+30-03-20,,Burundi,0,0,0
+30-03-20,,Sierra Leone,0,0,0
+30-03-20,,Malawi,0,0,0
+30-03-20,Falkland Islands (Malvinas),United Kingdom,0,0,0
+30-03-20,Saint Pierre and Miquelon,France,0,0,0
+30-03-20,,South Sudan,0,0,0
+30-03-20,,Western Sahara,0,0,0
+30-03-20,,Sao Tome and Principe,0,0,0
+30-03-20,,Yemen,0,0,0
+30-03-20,,Comoros,0,0,0
+30-03-20,,Tajikistan,0,0,0
+30-03-20,,Lesotho,0,0,0
+31-03-20,,Afghanistan,174,4,5
+31-03-20,,Albania,243,15,52
+31-03-20,,Algeria,716,44,46
+31-03-20,,Andorra,376,12,10
+31-03-20,,Angola,7,2,1
+31-03-20,,Antigua and Barbuda,7,0,0
+31-03-20,,Argentina,1054,27,240
+31-03-20,,Armenia,532,3,30
+31-03-20,Australian Capital Territory,Australia,80,1,3
+31-03-20,New South Wales,Australia,2032,8,4
+31-03-20,Northern Territory,Australia,17,0,0
+31-03-20,Queensland,Australia,743,2,8
+31-03-20,South Australia,Australia,337,0,6
+31-03-20,Tasmania,Australia,69,1,5
+31-03-20,Victoria,Australia,917,4,291
+31-03-20,Western Australia,Australia,364,2,41
+31-03-20,,Austria,10180,128,1095
+31-03-20,,Azerbaijan,298,5,26
+31-03-20,,Bahamas,14,0,1
+31-03-20,,Bahrain,567,4,295
+31-03-20,,Bangladesh,51,5,25
+31-03-20,,Barbados,34,0,0
+31-03-20,,Belarus,152,1,47
+31-03-20,,Belgium,12775,705,1696
+31-03-20,,Benin,9,0,1
+31-03-20,,Bhutan,4,0,0
+31-03-20,,Bolivia,107,6,0
+31-03-20,,Bosnia and Herzegovina,420,13,17
+31-03-20,,Brazil,5717,201,127
+31-03-20,,Brunei,129,1,45
+31-03-20,,Bulgaria,399,8,17
+31-03-20,,Burkina Faso,261,14,32
+31-03-20,,Cabo Verde,6,1,0
+31-03-20,,Cambodia,109,0,23
+31-03-20,,Cameroon,193,6,5
+31-03-20,Alberta,Canada,690,8,0
+31-03-20,British Columbia,Canada,1013,24,0
+31-03-20,Manitoba,Canada,103,1,0
+31-03-20,New Brunswick,Canada,70,0,0
+31-03-20,Newfoundland and Labrador,Canada,152,1,0
+31-03-20,Nova Scotia,Canada,147,0,0
+31-03-20,Ontario,Canada,1966,33,0
+31-03-20,Prince Edward Island,Canada,21,0,0
+31-03-20,Quebec,Canada,4162,31,0
+31-03-20,Saskatchewan,Canada,184,2,0
+31-03-20,,Central African Republic,3,0,0
+31-03-20,,Chad,7,0,0
+31-03-20,,Chile,2844,12,156
+31-03-20,Anhui,China,990,6,984
+31-03-20,Beijing,China,580,8,418
+31-03-20,Chongqing,China,579,6,570
+31-03-20,Fujian,China,343,1,295
+31-03-20,Gansu,China,138,2,125
+31-03-20,Guangdong,China,1494,8,1356
+31-03-20,Guangxi,China,254,2,250
+31-03-20,Guizhou,China,146,2,144
+31-03-20,Hainan,China,168,6,168
+31-03-20,Hebei,China,321,6,0
+31-03-20,Heilongjiang,China,484,13,469
+31-03-20,Henan,China,1276,22,0
+31-03-20,Hong Kong,China,714,4,128
+31-03-20,Hubei,China,67801,3187,63153
+31-03-20,Hunan,China,1018,4,1014
+31-03-20,Inner Mongolia,China,107,1,74
+31-03-20,Jiangsu,China,646,0,631
+31-03-20,Jiangxi,China,937,1,935
+31-03-20,Jilin,China,98,1,92
+31-03-20,Liaoning,China,139,2,124
+31-03-20,Macau,China,41,0,10
+31-03-20,Ningxia,China,75,0,75
+31-03-20,Qinghai,China,18,0,18
+31-03-20,Shaanxi,China,253,3,242
+31-03-20,Shandong,China,774,7,753
+31-03-20,Shanghai,China,509,5,341
+31-03-20,Shanxi,China,136,0,133
+31-03-20,Sichuan,China,550,3,536
+31-03-20,Tianjin,China,174,3,135
